@@ -4,10 +4,10 @@
 1.Opens a wepage : Youtube , Google Chrome                                                                                                       
 Human : Open Youtube                                                                                                                            
  
-2. Predicts time
+2. Predicts time                                                                                                                                 
 Human : What is the time
 
-3. Predicts date
+3. Predicts date                                                                                                                                 
 Human : What is the date
 
  ## Libraries required to be installed using Pip Command:
